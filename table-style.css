@@ -1,0 +1,7 @@
+
+ tr:hover{
+     width: 105%;
+     font-size: 19px;
+     background-image:linear-gradient(to right,#72efdd,#6a00f4);
+     /* box-shadow: 2px 2px 2px #333; */
+ }

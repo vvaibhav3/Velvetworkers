@@ -1,0 +1,166 @@
+[11-Sep-2020 07:16:24 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/gchwdgzv45lw/public_html/abhaystone.velvetworkers.com/print/material_printer.php on line 59
+[11-Sep-2020 11:22:20 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/gchwdgzv45lw/public_html/abhaystone.velvetworkers.com/print/material_printer.php on line 59
+[25-Sep-2020 07:40:25 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/material_printer.php on line 59
+[01-Oct-2020 10:47:47 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/material_printer.php on line 59
+[01-Oct-2020 10:50:08 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/material_printer.php on line 59
+[01-Oct-2020 10:50:27 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/material_printer.php on line 59
+[01-Oct-2020 10:50:40 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/material_printer.php on line 59
+[01-Oct-2020 10:53:15 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/material_printer.php on line 59
+[01-Oct-2020 10:53:41 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/material_printer.php on line 59
+[02-Oct-2020 05:34:59 UTC] PHP Notice:  Undefined offset: 2 in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/invoice_print.php on line 199
+[02-Oct-2020 05:50:13 UTC] PHP Notice:  Undefined offset: 2 in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/invoice_print.php on line 199
+[02-Oct-2020 09:10:30 UTC] PHP Notice:  Undefined variable: challan_no in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/invoice_print.php on line 75
+[02-Oct-2020 09:10:30 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/invoice_print.php on line 75
+[02-Oct-2020 09:10:30 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/invoice_print.php on line 298
+[02-Oct-2020 09:10:30 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/invoice_print.php on line 302
+[03-Oct-2020 06:23:45 UTC] PHP Notice:  Undefined variable: challan_no in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/invoice_print.php on line 75
+[03-Oct-2020 06:23:45 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/invoice_print.php on line 75
+[03-Oct-2020 06:23:45 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/invoice_print.php on line 298
+[03-Oct-2020 06:23:45 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/invoice_print.php on line 302
+[03-Oct-2020 06:25:11 UTC] PHP Notice:  Undefined variable: challan_no in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/invoice_print.php on line 75
+[03-Oct-2020 06:25:11 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/invoice_print.php on line 75
+[03-Oct-2020 06:25:11 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/invoice_print.php on line 298
+[03-Oct-2020 06:25:11 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/invoice_print.php on line 302
+[03-Oct-2020 08:18:43 UTC] PHP Notice:  Undefined index: username in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/pnavbar.php on line 66
+[07-Oct-2020 10:05:34 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/material_printer.php on line 59
+[10-Oct-2020 07:11:47 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/material_printer.php on line 59
+[12-Oct-2020 11:37:01 UTC] PHP Notice:  Undefined variable: challan_no in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/invoice_print.php on line 75
+[12-Oct-2020 11:37:01 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/invoice_print.php on line 75
+[12-Oct-2020 11:37:01 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/invoice_print.php on line 298
+[12-Oct-2020 11:37:01 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/invoice_print.php on line 302
+[12-Oct-2020 11:55:43 UTC] PHP Notice:  Undefined variable: address in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/invoice_print.php on line 171
+[12-Oct-2020 11:55:43 UTC] PHP Notice:  Undefined variable: city in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/invoice_print.php on line 171
+[12-Oct-2020 11:55:43 UTC] PHP Notice:  Undefined variable: mobile in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/invoice_print.php on line 172
+[12-Oct-2020 11:55:43 UTC] PHP Notice:  Undefined variable: gst_no in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/invoice_print.php on line 173
+[12-Oct-2020 11:55:51 UTC] PHP Notice:  Undefined variable: address in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/invoice_print.php on line 171
+[12-Oct-2020 11:55:51 UTC] PHP Notice:  Undefined variable: city in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/invoice_print.php on line 171
+[12-Oct-2020 11:55:51 UTC] PHP Notice:  Undefined variable: mobile in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/invoice_print.php on line 172
+[12-Oct-2020 11:55:51 UTC] PHP Notice:  Undefined variable: gst_no in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/invoice_print.php on line 173
+[13-Oct-2020 04:53:11 UTC] PHP Notice:  Undefined variable: challan_no in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/invoice_print.php on line 75
+[13-Oct-2020 04:53:11 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/invoice_print.php on line 75
+[13-Oct-2020 04:53:11 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/invoice_print.php on line 298
+[13-Oct-2020 04:53:11 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/invoice_print.php on line 302
+[13-Oct-2020 12:21:29 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/material_printer.php on line 59
+[26-Oct-2020 05:27:35 UTC] PHP Notice:  Undefined variable: challan_no in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/invoice_print.php on line 75
+[26-Oct-2020 05:27:35 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/invoice_print.php on line 75
+[26-Oct-2020 05:27:35 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/invoice_print.php on line 298
+[26-Oct-2020 05:27:35 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/invoice_print.php on line 302
+[26-Oct-2020 05:27:53 UTC] PHP Notice:  Undefined variable: challan_no in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/invoice_print.php on line 75
+[26-Oct-2020 05:27:53 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/invoice_print.php on line 75
+[26-Oct-2020 05:27:53 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/invoice_print.php on line 298
+[26-Oct-2020 05:27:53 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/invoice_print.php on line 302
+[26-Oct-2020 05:33:25 UTC] PHP Notice:  Undefined variable: challan_no in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/invoice_print.php on line 75
+[26-Oct-2020 05:33:25 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/invoice_print.php on line 75
+[26-Oct-2020 05:33:25 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/invoice_print.php on line 298
+[26-Oct-2020 05:33:25 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/invoice_print.php on line 302
+[26-Oct-2020 05:39:21 UTC] PHP Notice:  Undefined variable: challan_no in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/invoice_print.php on line 75
+[26-Oct-2020 05:39:21 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/invoice_print.php on line 75
+[26-Oct-2020 05:39:21 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/invoice_print.php on line 298
+[26-Oct-2020 05:39:21 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/invoice_print.php on line 302
+[26-Oct-2020 05:40:37 UTC] PHP Notice:  Undefined variable: challan_no in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/invoice_print.php on line 75
+[26-Oct-2020 05:40:37 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/invoice_print.php on line 75
+[26-Oct-2020 05:40:37 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/invoice_print.php on line 298
+[26-Oct-2020 05:40:37 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/invoice_print.php on line 302
+[26-Oct-2020 05:42:05 UTC] PHP Notice:  Undefined variable: challan_no in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/invoice_print.php on line 75
+[26-Oct-2020 05:42:05 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/invoice_print.php on line 75
+[26-Oct-2020 05:42:05 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/invoice_print.php on line 298
+[26-Oct-2020 05:42:05 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/invoice_print.php on line 302
+[28-Oct-2020 08:59:13 UTC] PHP Notice:  Undefined variable: address in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/invoice_print.php on line 171
+[28-Oct-2020 08:59:13 UTC] PHP Notice:  Undefined variable: city in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/invoice_print.php on line 171
+[28-Oct-2020 08:59:13 UTC] PHP Notice:  Undefined variable: mobile in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/invoice_print.php on line 172
+[28-Oct-2020 08:59:13 UTC] PHP Notice:  Undefined variable: gst_no in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/invoice_print.php on line 173
+[29-Oct-2020 10:10:41 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/material_printer.php on line 59
+[29-Oct-2020 10:10:54 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/material_printer.php on line 59
+[29-Oct-2020 12:10:12 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/material_printer.php on line 59
+[29-Oct-2020 12:10:41 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/material_printer.php on line 59
+[29-Oct-2020 12:37:44 UTC] PHP Notice:  Undefined index: username in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/pnavbar.php on line 66
+[29-Oct-2020 12:37:44 UTC] PHP Notice:  Undefined index: username in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/pnavbar.php on line 66
+[31-Oct-2020 08:17:22 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/material_printer.php on line 59
+[31-Oct-2020 12:35:32 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/material_printer.php on line 59
+[02-Nov-2020 11:15:57 UTC] PHP Notice:  Undefined index: username in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/pnavbar.php on line 66
+[06-Nov-2020 11:44:56 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/material_printer.php on line 59
+[06-Nov-2020 11:47:33 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/material_printer.php on line 59
+[06-Nov-2020 11:49:33 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/material_printer.php on line 59
+[07-Nov-2020 07:38:18 UTC] PHP Notice:  Undefined index: username in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/pnavbar.php on line 66
+[13-Nov-2020 08:25:56 UTC] PHP Notice:  Undefined index: username in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/pnavbar.php on line 66
+[30-Nov-2020 06:04:40 UTC] PHP Notice:  Undefined index: username in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/pnavbar.php on line 66
+[25-Dec-2020 07:36:50 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/material_printer.php on line 59
+[25-Dec-2020 10:14:53 UTC] PHP Notice:  Undefined index: username in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/pnavbar.php on line 66
+[26-Dec-2020 05:10:01 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/material_printer.php on line 59
+[26-Dec-2020 05:24:37 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/material_printer.php on line 59
+[29-Dec-2020 03:39:51 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/material_printer.php on line 59
+[30-Dec-2020 08:46:42 UTC] PHP Notice:  Undefined variable: address in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/invoice_print.php on line 171
+[30-Dec-2020 08:46:42 UTC] PHP Notice:  Undefined variable: city in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/invoice_print.php on line 171
+[30-Dec-2020 08:46:42 UTC] PHP Notice:  Undefined variable: mobile in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/invoice_print.php on line 172
+[30-Dec-2020 08:46:42 UTC] PHP Notice:  Undefined variable: gst_no in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/invoice_print.php on line 173
+[30-Dec-2020 08:47:22 UTC] PHP Notice:  Undefined variable: address in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/invoice_print.php on line 171
+[30-Dec-2020 08:47:22 UTC] PHP Notice:  Undefined variable: city in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/invoice_print.php on line 171
+[30-Dec-2020 08:47:22 UTC] PHP Notice:  Undefined variable: mobile in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/invoice_print.php on line 172
+[30-Dec-2020 08:47:22 UTC] PHP Notice:  Undefined variable: gst_no in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/invoice_print.php on line 173
+[13-Jan-2021 07:08:22 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/material_printer.php on line 59
+[15-Jan-2021 11:41:12 UTC] PHP Notice:  Undefined index: username in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/pnavbar.php on line 66
+[15-Jan-2021 12:12:10 UTC] PHP Notice:  Undefined variable: conn in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/sales_order_print.php on line 225
+[15-Jan-2021 12:12:10 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/sales_order_print.php on line 225
+[18-Jan-2021 10:05:02 UTC] PHP Notice:  Undefined variable: mobile_no in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/sales_order_print.php on line 136
+[19-Jan-2021 09:24:08 UTC] PHP Notice:  Undefined variable: address in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/invoice_print.php on line 171
+[19-Jan-2021 09:24:08 UTC] PHP Notice:  Undefined variable: city in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/invoice_print.php on line 171
+[19-Jan-2021 09:24:08 UTC] PHP Notice:  Undefined variable: mobile in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/invoice_print.php on line 172
+[19-Jan-2021 09:24:08 UTC] PHP Notice:  Undefined variable: gst_no in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/invoice_print.php on line 173
+[25-Jan-2021 09:35:44 UTC] PHP Notice:  Undefined index: username in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/pnavbar.php on line 66
+[05-Feb-2021 05:29:52 UTC] PHP Notice:  Undefined index: username in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/pnavbar.php on line 66
+[05-Feb-2021 05:57:46 UTC] PHP Notice:  Undefined index: username in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/pnavbar.php on line 66
+[05-Feb-2021 09:07:30 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/material_printer.php on line 59
+[11-Feb-2021 04:57:12 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/material_printer.php on line 59
+[20-Feb-2021 05:02:15 UTC] PHP Notice:  Undefined variable: company in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/sales_order_print.php on line 85
+[20-Feb-2021 05:02:15 UTC] PHP Notice:  Undefined variable: date in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/sales_order_print.php on line 133
+[20-Feb-2021 05:02:15 UTC] PHP Notice:  Undefined variable: company in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/sales_order_print.php on line 134
+[20-Feb-2021 05:02:15 UTC] PHP Notice:  Undefined variable: address in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/sales_order_print.php on line 135
+[20-Feb-2021 05:02:15 UTC] PHP Notice:  Undefined variable: city in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/sales_order_print.php on line 135
+[20-Feb-2021 05:02:15 UTC] PHP Notice:  Undefined variable: mobile_no in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/sales_order_print.php on line 136
+[20-Feb-2021 05:02:15 UTC] PHP Notice:  Undefined variable: site_name in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/sales_order_print.php on line 137
+[20-Feb-2021 05:02:15 UTC] PHP Notice:  Undefined variable: payment_terms in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/sales_order_print.php on line 211
+[20-Feb-2021 06:29:54 UTC] PHP Notice:  Undefined index: username in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/pnavbar.php on line 66
+[20-Feb-2021 09:04:55 UTC] PHP Notice:  Undefined variable: address in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/invoice_print.php on line 171
+[20-Feb-2021 09:04:55 UTC] PHP Notice:  Undefined variable: city in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/invoice_print.php on line 171
+[20-Feb-2021 09:04:55 UTC] PHP Notice:  Undefined variable: mobile in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/invoice_print.php on line 172
+[20-Feb-2021 09:04:55 UTC] PHP Notice:  Undefined variable: gst_no in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/invoice_print.php on line 173
+[23-Feb-2021 06:08:09 UTC] PHP Notice:  Undefined variable: challan_no in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/invoice_print.php on line 75
+[23-Feb-2021 06:08:09 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/invoice_print.php on line 75
+[23-Feb-2021 06:08:09 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/invoice_print.php on line 298
+[23-Feb-2021 06:08:09 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/invoice_print.php on line 302
+[23-Feb-2021 06:08:50 UTC] PHP Notice:  Undefined variable: challan_no in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/invoice_print.php on line 75
+[23-Feb-2021 06:08:50 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/invoice_print.php on line 75
+[23-Feb-2021 06:08:50 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/invoice_print.php on line 298
+[23-Feb-2021 06:08:50 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/invoice_print.php on line 302
+[27-Feb-2021 05:58:04 UTC] PHP Notice:  Undefined index: username in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/pnavbar.php on line 66
+[04-Mar-2021 09:00:16 UTC] PHP Notice:  Undefined index: username in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/pnavbar.php on line 66
+[06-Apr-2021 10:32:22 UTC] PHP Notice:  Undefined index: username in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/pnavbar.php on line 66
+[14-Apr-2021 10:26:01 UTC] PHP Notice:  Undefined variable: challan_no in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/invoice_print.php on line 75
+[14-Apr-2021 10:26:01 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/invoice_print.php on line 75
+[14-Apr-2021 10:26:01 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/invoice_print.php on line 298
+[14-Apr-2021 10:26:01 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/invoice_print.php on line 302
+[14-Apr-2021 10:26:29 UTC] PHP Notice:  Undefined variable: challan_no in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/invoice_print.php on line 75
+[14-Apr-2021 10:26:29 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/invoice_print.php on line 75
+[14-Apr-2021 10:26:29 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/invoice_print.php on line 298
+[14-Apr-2021 10:26:29 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/invoice_print.php on line 302
+[20-Apr-2021 11:02:05 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/material_printer.php on line 59
+[18-May-2021 07:10:23 UTC] PHP Notice:  Undefined variable: challan_no in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/invoice_print.php on line 75
+[18-May-2021 07:10:23 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/invoice_print.php on line 75
+[18-May-2021 07:10:23 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/invoice_print.php on line 298
+[18-May-2021 07:10:23 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/invoice_print.php on line 302
+[28-May-2021 08:18:23 UTC] PHP Notice:  Undefined variable: challan_no in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/invoice_print.php on line 75
+[28-May-2021 08:18:23 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/invoice_print.php on line 75
+[28-May-2021 08:18:23 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/invoice_print.php on line 298
+[28-May-2021 08:18:23 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/invoice_print.php on line 302
+[07-Jun-2021 10:09:33 UTC] PHP Notice:  Undefined variable: address in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/invoice_print.php on line 171
+[07-Jun-2021 10:09:33 UTC] PHP Notice:  Undefined variable: city in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/invoice_print.php on line 171
+[07-Jun-2021 10:09:33 UTC] PHP Notice:  Undefined variable: mobile in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/invoice_print.php on line 172
+[07-Jun-2021 10:09:33 UTC] PHP Notice:  Undefined variable: gst_no in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/invoice_print.php on line 173
+[18-Jun-2021 06:55:34 UTC] PHP Notice:  Undefined variable: conn in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/sales_order_print.php on line 225
+[18-Jun-2021 06:55:34 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/sales_order_print.php on line 225
+[22-Jun-2021 07:43:14 UTC] PHP Notice:  Undefined index: username in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/pnavbar.php on line 66
+[28-Jun-2021 11:48:23 UTC] PHP Notice:  Undefined variable: challan_no in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/invoice_print.php on line 75
+[28-Jun-2021 11:48:23 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/invoice_print.php on line 75
+[28-Jun-2021 11:48:23 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/invoice_print.php on line 298
+[28-Jun-2021 11:48:23 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/invoice_print.php on line 302
+[31-Jul-2021 09:42:51 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/gchwdgzv45lw/public_html/scc.velvetworkers.com/print/material_printer.php on line 59
